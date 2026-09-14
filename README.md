@@ -2,7 +2,7 @@
 
 Projet de recherche appliquée réalisé dans le cadre de la formation d'ingénieur MAM5 (Mathématiques Appliquées et Modélisation) à **Polytech Lyon**, sous la direction de M. Ciuperca.
 
-> Auteur : Moth Yacine NDAO — Année universitaire 2025-2026
+> Auteur : Moth Yacine NDAO - Année universitaire 2025-2026
 
 ## Le problème
 
